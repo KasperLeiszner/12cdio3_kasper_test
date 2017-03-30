@@ -1,0 +1,49 @@
+.header{
+    position: fixed;
+    width: 100%;
+    margin: 0px auto;
+    box-shadow: 0px 2px 5px #888888;
+    background-color: lightblue;
+    top: 0;
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+    font-family: Calibri;
+}
+
+.header a:hover{
+    color: black;
+}
+
+.logo{
+    padding-right: 25px;
+    float: right;
+    text-transform: uppercase;
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+body{
+    margin: 0px;
+}
+
+.content{
+    margin: 1cm;
+    margin-top: 3cm;
+}
+
+.content h1{
+    font-family: Calibri;
+    color: gray;
+}
+
+.users table,.users th{
+    border-collapse: collapse;
+    border: 1px solid black;
+    border-color: black;
+    font-family: "Arial";
+}
