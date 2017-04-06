@@ -41,7 +41,7 @@ body{
     color: gray;
 }
 
-.users table,.users th{
+#Usertabel table, #Usertabel th{
     border-collapse: collapse;
     border: 1px solid black;
     border-color: black;
